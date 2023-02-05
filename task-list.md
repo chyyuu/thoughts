@@ -1,6 +1,6 @@
 # crate-based&unikernel 方式构造定制操作系统内核
 
-## 模块
+## 模块（已有&需要改进以便于OS组合）
 
 ### 文件系统
 - easyfs
@@ -28,7 +28,7 @@
 ### 硬件平台设备驱动
 - pci
 
-## OS或Hypervisor
+## OS或Hypervisor（已有&需要改进以便于OS组合）
 - rcore-tutorial-v3
 - rcore-tutorial-in-single-workspace
 - aceros
