@@ -1,5 +1,12 @@
 # crate-based&unikernel 方式构造定制操作系统内核
 
+## 联系人 
+
+- 微信id：chyyuu  ，limingth
+- email：yuchen AT tsinghua.edu.cn ，limingth@gmail.com
+
+欢迎感兴趣做下面题目的朋友，联系我们，我们会定期组织自学习和讨论。
+
 ## 模块（已有&需要改进以便于OS组合）
 
 ### 文件系统
