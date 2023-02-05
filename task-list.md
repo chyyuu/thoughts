@@ -3,9 +3,9 @@
 ## 联系人 
 
 - 微信id：chyyuu  ，limingth
-- email：yuchen AT tsinghua.edu.cn ，limingth@gmail.com
+- email：yuchen AT tsinghua.edu.cn ，limingth AT gmail.com
 
-欢迎感兴趣做下面题目的朋友，联系我们，我们会定期组织自学习和讨论。
+欢迎感兴趣做下面题目的朋友，联系我们，我们会定期组织自学习和讨论组件化内核设计与实现。
 
 ## 模块（已有&需要改进以便于OS组合）
 
