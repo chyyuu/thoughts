@@ -97,3 +97,18 @@
 - （高级）扩展 Rust for Linux on RISC-V 32/64
 - （高级）扩展RVM，支持可调度/多核支持的Hypervisor，可运行在ARM上
 - （高级）移植各种OS/Hypervisor在x86-64\RISC-V64/AARCH64\LoongArch上
+
+
+### 与arceos相关的题目
+
+#### 目前比较简单的
+- 线程调度算法
+- 内存分配算法（优化现有的buddy system）
+- 同步互斥机制（支持线程的阻塞机制：即有等待队列的条件变量或信号量）
+- 移植到ARM上
+#### 中高等难度 
+- 文件系统（高性能嵌入式实时日志文件系统，可参考xv6fs ）
+- 基于virtio-gpu的framebufer driver(可参考rcore tutorial v3的ch9 branch 中给的OS) 
+- e1000网卡驱动（可参考 rcore/zcore中的e1000网卡驱动）
+- sd卡驱动（基于qemu或树莓派）
+- nvme驱动（参考zcore的nvme驱动）
